@@ -1,0 +1,102 @@
+.main
+{
+    background-color: #ffffff;
+    width: 994px;
+    height: 432px;
+}
+
+.shoes__image
+{
+    padding-top: 93px;
+    padding-left: 19px;
+}
+
+.shoes__content
+{
+    padding-left: 54px;
+}
+
+.shoes_heading
+{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 50px;
+    color: #212121;
+    
+}
+
+.content_smallpara
+{
+    font-family: 'Roboto', sans-serif;
+    color: #26A541 !important;
+    font-size: 16px;
+    font-weight: 600;
+    opacity: 1;
+    position: relative;
+    bottom: 4px;
+}
+
+.content_price
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    position: relative;
+    bottom: 25px;
+}
+
+.content_info
+{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #212121;
+    position: relative;
+    top: -4px;
+}
+
+#content_article
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    
+    position: relative;
+    bottom: 16px;
+
+}
+
+.badge_area content_badge
+{
+    padding: 10px;
+    
+
+}
+
+.badge
+{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.content_description
+{
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 13px;
+}
+
+
+.content_smalldes
+{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+
